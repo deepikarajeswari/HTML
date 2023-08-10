@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+
+    
+</head>
+<body>
+  <div class="menu-bar">
+    <ul>
+      <li><a href="#">home</a></i></li>
+      <li><a href="#">Services</a></li>
+      <div class="sub-menu-1">
+        <ul>
+          <li> <a href ="#"> package</a></li>
+          <li> <a href ="#"> rental</a></li>
+          <li> <a href ="#"> ride</a></li>
+          <li> <a href ="#"> shuttle</a></li>
+          <li> <a href ="#"> intercity</a></li>
+          <li> <a href ="#"> ambulance services</a></li>
+        </ul>
+      </div>
+    
+      <li><a href="#">account</a></li>
+      <div class="sub-menu-2">
+        <ul>
+          <li> <a href ="#"> help</a></li>
+          <li> <a href ="#"> wallet</a></li>
+          <li> <a href ="#"> trips</a></li>
+          <li> <a href ="#"> safety toolkit</a></li>
+          <li> <a href ="#"> settings</a></li>
+          <li> <a href ="#"> offline booking</a></li>
+        </ul>
+      </div>
+      
+
+    </ul>
+        </div>
+</body>
+</html>
